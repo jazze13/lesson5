@@ -264,11 +264,12 @@ section.sixth > div {
     background:#00194A;
     border-radius:25px;
     text-align:center;
-    padding:50px;
+    padding:50px 280px;
 }
 
 section.sixth h3 {
     color:#fff;
+    margin-bottom:30px;
 }
 
 section.sixth p {
